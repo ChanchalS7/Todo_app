@@ -1,0 +1,7 @@
+.task {
+  /* Sample  */
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+}
